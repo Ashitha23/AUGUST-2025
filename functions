@@ -6,6 +6,12 @@ def hello(a,b):  #fucntion def
     print(a)
 a=10
 b=20
-first function is called and then it is defined
+#first function is called and then it is defined
 hello(a,b)  #function call 
 output-10
+def hello(b,a):
+    print(a)
+a=10
+b=20
+hello(a,b)
+output-20
