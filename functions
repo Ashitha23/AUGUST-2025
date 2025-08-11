@@ -1,0 +1,11 @@
+FUNCTIONS IN PYTHON
+it is divided into 2 types function call and function defenition
+we can change arguments name in function def but not in function call
+return-go back to function call
+def hello(a,b):  #fucntion def
+    print(a)
+a=10
+b=20
+first function is called and then it is defined
+hello(a,b)  #function call 
+output-10
